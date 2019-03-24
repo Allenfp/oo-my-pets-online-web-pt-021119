@@ -7,4 +7,3 @@ class Cat
   end
 
   end
-end
