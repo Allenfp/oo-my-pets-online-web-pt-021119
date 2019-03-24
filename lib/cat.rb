@@ -3,7 +3,7 @@ class Cat
   attr_writer :name
 
   def initialize(name)
-    @name
+    @name = name
   end
 
-  end
+end
