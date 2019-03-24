@@ -23,7 +23,7 @@ class Owner
   end
 
   def say_species
-    @speices
+    "I am a #{@species}"
   end
 
 
